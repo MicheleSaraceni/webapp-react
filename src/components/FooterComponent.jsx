@@ -1,6 +1,6 @@
 export default function FooterComponent() {
     return (
-        <footer>
+        <footer className="bg-dark text-white">
             <h1>FOOTER</h1>
         </footer>
     )
