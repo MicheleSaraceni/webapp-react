@@ -4,7 +4,7 @@ export default function SidebarComponent() {
     return (
 
         <div
-            className="mt-6 d-flex flex-column flex-shrink-0 p-3 text-bg-dark"
+            className="sidebar mt-6 d-flex flex-column flex-shrink-0 p-3 text-bg-dark"
             style={{ width: '280px', minHeight: '100vh' }}
         >
 
